@@ -1,0 +1,96 @@
+{
+    "jojos":[
+        {
+            "id": 1,
+            "Personaje": "Federek Lopez",
+            "edad": 33,
+            "stand": "Star Platinium",
+            "img": "https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg",
+            "saga": "3, 4, 5, 6"
+        },
+        {
+            "id": 2,
+            "Personaje": "Estelita Talavera",
+            "edad": 44,
+            "stand": "Star Platinium",
+            "img": "https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg",
+            "saga": "5"
+        },
+        {
+            "id": 3,
+            "Personaje": "Rafaela Carrillo",
+            "edad": 12,
+            "stand": "Crazy Diamond",
+            "img": "https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg",
+            "saga": "5"
+        },
+        {
+           "id": 4,
+            "Personaje": "Rafaela Carrillo",
+            "edad": 12,
+            "stand": "Crazy Diamond",
+            "img": "https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg",
+            "saga": "1"
+        },
+        {
+           "id": 5,
+            "Personaje": "Nazarita Beltran",
+            "edad": 52,
+            "stand": "Pretty Women",
+            "img": "https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg",
+            "saga": "6"
+        },
+        {
+            "id": 6,
+            "Personaje": "Nazarita Beltran",
+            "edad": 52,
+            "stand": "Pretty Women",
+            "img": "https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg",
+            "saga": "4"
+        },
+        {
+            "id": 7,
+            "Personaje": "Hugo Landa",
+            "edad": 23,
+            "stand": "Pretty Women",
+            "img": "https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg",
+            "saga": "6"
+        },
+        {
+            "id": 8,
+            "Personaje": "Alaine Vargas",
+            "edad": 28,
+            "stand": "Pretty Women",
+            "img": "https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg",
+            "saga": "3"
+        },
+        {
+           "id": 9,
+            "Personaje": "aitana Pedriel",
+            "edad": 52,
+            "stand": "Pretty Women",
+            "img": "https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg",
+            "saga": "4"
+        },
+        {
+           "id": 10,
+            "Personaje": "Nazarita Beltran",
+            "edad": 52,
+            "stand": "Pretty Women",
+            "img": "https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg",
+            "saga": "4"
+        },
+        {
+            "id": 11,
+            "Personaje": "Maria Lucia",
+            "edad": 20,
+            "stand": "Pretty Women",
+            "img": "https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg",
+            "saga": "6"
+        }
+
+    ],
+    "profile": {
+        "name": "RouSs"
+    }
+}
